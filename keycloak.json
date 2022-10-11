@@ -1,7 +1,7 @@
 
 {
   "realm": "mobiik",
-  "auth-server-url": "http://challenge-sitio-web.eastus2.cloudapp.azure.com:8080",
+  "auth-server-url": "http://servertest.eastus2.cloudapp.azure.com:8080/",
   "ssl-required": "none",
   "resource": "Challenge-mobiik",
   "public-client": true,
